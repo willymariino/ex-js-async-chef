@@ -22,9 +22,8 @@ async function getChefBirthday(id, userId) {
 
 (async () => {
     try {
-        const post = await getChefBirthday(1, 2)
         const user = await getChefBirthday(1, 2)
-        console.log("post completo", post, user)
+        console.log("post completo", user)
     }
     catch (error) {
         console.error(error)
