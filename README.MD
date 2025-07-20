@@ -2,7 +2,7 @@
 
 Questa repository contiene esercizi svolti sull'**utilizzo di async/await** in JavaScript vanilla, con particolare attenzione alla gestione delle chiamate API e delle promesse. 
 
-> aggiunta anche una repo di correzione
+> aggiunta anche una repo di correzione [correzione-ex-js-async-chef](https://github.com/willymariino/correzione-ex-js-async-chef) 
 
 ## Obiettivi 
 
